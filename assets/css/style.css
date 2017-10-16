@@ -1,0 +1,35 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 30px;
+}
+
+li {
+    display: inline;
+    padding: 30px;
+}
+
+li img{
+	padding-right: 10px;
+}
+
+.banner{
+	padding-bottom: 30px;
+}
+
+.atendimento img{
+	padding-right: 10px;
+}
+
+#title-videos img{
+	padding-right: 10px;
+}
+
+#title-fotos img{
+	padding-right: 10px;
+}
+
+.livros li img{
+	width: 100px;
+}
